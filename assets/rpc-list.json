@@ -5,9 +5,14 @@
     "address" : "rpc.ankr.com/solana"
   },
   {
-    "org"     : "allthatnode",
-    "rpcn"    : "allthatnode-milliseconds-matter",
-    "address" : "solana-mainnet-rpc.allthatnode.com"
+    "org"     : "ankr",
+    "rpcn"    : "ankr-private",
+    "address" : "https://rpc.ankr.com/multichain/0194b68a9d56d79d0b4054c8573ad4dca1bebf65e4efce27351b015df45ecbab"
+  },
+  {
+    "org"     : "syndica",
+    "rpcn"    : "syndica-private",
+    "address" : "https://solana-mainnet.api.syndica.io/api-token/37EV3iqxZdipPRAZGt1xwTJS41EtGLTcjFXtEnNEqC9uJyqyPxMS78iA1bf2SsGzB6bESbj7Zig6sDL4sbUctDAf8mvnSfpmWE7SGJ6of6VEaQyMuX3L2BVxFf568Qvv1XPgHHi6KqMYxe8pF643dMUFTwkuwPGsNUBXcyMeKeSKJGMXwnmwWCdgmBdBD7q3iq1NRWymVnuM6aTkL3unKDjxDfpSbvbFbKgbbPk1xZWd4kyXwda2uif2Ek2b41sYoJkJUeSXtN25wPnTmQeJnUfJi9ES5V4aKKjN5xz74j4b1vn95w5Vx8EZFhmMhCGc9qePdmLkiv3rZyTJCBZVKe6QBQPsiGSifRjzpbDjoE42dXK7QZ54Wrh73fkvpGzMonSGnmQJ5SmtfeewJiyuPm1KzzSUmaCkHf2QS67E8f4ofyDuDLbz7aJfm7ujexHnCmGhjKbZ1N6Zy9QC2T4uGVyWqQTLZxMSZGRoDPPKYG2V38xfWFxjrfPVCToX3"
   },
   {
     "org"     : "chainstack",
@@ -15,38 +20,28 @@
     "address" : "solana-mainnet.core.chainstack.com/76c57c4770fac9138a0740395ce3db1f"
   },
   {
-    "org"     : "getblock",
-    "rpcn"    : "getblock-milliseconds-matter",
-    "address" : "sol.getblock.io/mainnet/?api_key=0adf05aa-0c1b-4a43-b644-c5b13bdb0260"
-  },
-  {
-    "org"     : "pokt",
-    "rpcn"    : "pokt-milliseconds-matter",
-    "address" : "solana-mainnet.gateway.pokt.network/v1/lb/f65b4dcb731d2b827e4ff205"
-  },
-  {
     "org"     : "solana-foundation",
     "rpcn"    : "solana-mainnet-beta-api",
     "address" : "api.mainnet-beta.solana.com"
   },
   {
-    "org"     : "sentries",
-    "rpcn"    : "sentries.io",
-    "address" : "solport.sentries.io/4c860ce19e664e0d8493a830a517ad6c"
+    "org"     : "lavanet",
+    "rpcn"    : "lavanet",
+    "address" : "https://g.w.lavanet.xyz:443/gateway/solana/rpc-http/f9f2ddb95c56ff462806e0d50f11782c"
   },
   {
-    "org"     : "tatum",
-    "rpcn"    : "tatum-milliseconds-matter",
-    "address" : "api.tatum.io/v3/solana/web3/{2375e129-91fd-4084-9667-b618257dfeab}"
+    "org"     : "quicknode",
+    "rpcn"    : "quicknode-milliseconds-matter",
+    "address" : "https://solitary-cool-patron.solana-mainnet.quiknode.pro/bb62e98911918787bd62fa70d31d4d1399f8f3d4"
   },
   {
-    "org"     : "tatum",
-    "rpcn"    : "tatum-us-milliseconds-matter",
-    "address" : "api-us-west1.tatum.io/v3/solana/web3/{2375e129-91fd-4084-9667-b618257dfeab}"
+    "org"     : "chainstack",
+    "rpcn"    : "chainstack-private",
+    "address" : "https://solana-mainnet.core.chainstack.com/817c7a076ce64e30a33792d607764209"
   },
   {
-    "org"     : "tatum",
-    "rpcn"    : "tatum-us-milliseconds-matter",
-    "address" : "api-eu1.tatum.io/v3/solana/web3/{2375e129-91fd-4084-9667-b618257dfeab}"
+    "org"     : "helius",
+    "rpcn"    : "helius-private",
+    "address" : "https://mainnet.helius-rpc.com/?api-key=ddf49ffc-fd01-41fa-8b47-cc0919a60591"
   }
 ]
